@@ -19,7 +19,7 @@ Bot helps foreigns to know more about customs and adopt to life in the Russian F
 ## Key features and resolved problems
 
 - bot implemented on Russian and English languages
-- bot realized on Aiogramm
+- bot realized on Aiogram
 - bot consists of Python code and PostgreSQL database. Both of them are located in Docker containers.
 - keyboard and antiflood protection implemented
 - Alembic tool helped me to change database Model
