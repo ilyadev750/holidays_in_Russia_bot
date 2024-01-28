@@ -16,19 +16,17 @@
 This Telegram bot is created for foreign students to help them to give an idea about holidays and traditions in Russia, to introduce them to Russian culture and upgrade speaking skills.
 Bot helps foreigns to know more about customs and adopt to life in the Russian Federation.
 
-## Key features and resolved problems
+## Key features
 
 - bot implemented on Russian and English languages
 - bot realized on Aiogram
 - bot consists of Python code and PostgreSQL database. Both of them are located in Docker containers.
+- bot sends images with holiday's description
 - keyboard and antiflood protection implemented
-- Alembic tool helped me to change database Model
-- Docker-compose didn't work on the remote server. I asked tech support to reinstall Docker and Docker compose. The problem was resolved.
+  
 
 ## How to use
 
 https://t.me/russian_holidays_bot - link to Bot
 
-## In future
 
-I want to add the feature to send images of holidays
